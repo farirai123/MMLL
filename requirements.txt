@@ -1,0 +1,5 @@
+opencv-python-headless
+keras
+pillow
+tensorflow
+tensorflow_gpu
